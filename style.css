@@ -1,0 +1,25 @@
+.hero {
+  background: url('img/to-be-hero-x-anime-3840x2160-22645.jpg') no-repeat center
+    center;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+* {
+  color: white;
+}
+.project {
+  background: rgba(156, 37, 17, 255);
+}
+
+#skils {
+  background: rgba(156, 37, 17, 255);
+}
+
+#contact {
+  background: rgba(156, 37, 17, 255);
+}
